@@ -1,0 +1,33 @@
+// 在安装插件选项卡下，输入@recommended，然后点击下载图标
+// code --list-extensions 可以查看已安装的插件
+{
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "editorconfig.editorconfig",
+      "streetsidesoftware.code-spell-checker",
+      "alefragnani.project-manager",
+      "Gruntfuggly.todo-tree",
+      "formulahendry.auto-close-tag",
+      "steoates.autoimport",
+      "formulahendry.auto-rename-tag",
+      "coenraads.bracket-pair-colorizer-2",
+      "ms-ceintl.vscode-language-pack-zh-hans",
+      "streetsidesoftware.code-spell-checker",
+      "oouo-diogo-perdigao.docthis",
+      "dbaeumer.vscode-eslint",
+      "maggie.eslint-rules-zh-plugin",
+      "donjayamanne.githistory",
+      "felipecaputo.git-project-manager",
+      "eamodio.gitlens",
+      "wix.vscode-import-cost",
+      "eg2.vscode-npm-script",
+      "vunguyentuan.vscode-postcss",
+      "esbenp.prettier-vscode",
+      "iceworks-team.iceworks-style-helper",
+      "jasonnutter.search-node-modules",
+      "burkeholland.simple-react-snippets",
+      "gruntfuggly.todo-tree",
+      "pflannery.vscode-versionlens",
+    ]
+  }
